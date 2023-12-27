@@ -1,0 +1,3 @@
+C:/Users/vieth/Desktop/abc/build/CMakeFiles/test.dir
+C:/Users/vieth/Desktop/abc/build/CMakeFiles/edit_cache.dir
+C:/Users/vieth/Desktop/abc/build/CMakeFiles/rebuild_cache.dir
