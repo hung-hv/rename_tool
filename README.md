@@ -1,2 +1,2 @@
 # rename_tool
-hahahahahaha dont know what to do 
+for re-name multiple files by given name list
